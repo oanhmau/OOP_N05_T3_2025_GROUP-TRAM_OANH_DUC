@@ -8,7 +8,7 @@
 - Đối tượng
   + khách hàng
   + sản phẩm
-  + 
+  + giao dịch
 
 
 
