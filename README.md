@@ -1,11 +1,10 @@
 # OOP_N05_T3_2025_GROUP-TRAM_OANH_DUC
 Ứng dụng quản lý quán net
+- sản phẩm
+- khách hàng
+- cửa hàng máy tính
 
-
-# Đối tượng
-
-
-# Miêu tả đối tượng
+# Thuộc tính
 
 
 
