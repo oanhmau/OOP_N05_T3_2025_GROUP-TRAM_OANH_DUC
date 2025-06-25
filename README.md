@@ -2,9 +2,13 @@
 Ứng dụng quản lý quán net
 - sản phẩm
 - khách hàng
-- cửa hàng máy tính
+- giao dịch
 
 # Thuộc tính
+- Đối tượng
+  + khách hàng
+  + sản phẩm
+  + 
 
 
 
