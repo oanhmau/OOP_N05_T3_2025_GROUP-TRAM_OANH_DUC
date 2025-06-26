@@ -5,7 +5,7 @@
 - thanh toán
 
 ## Thuộc tính
-#**1. Khách hàng**
+# **1. Khách hàng**
  - **Thuộc tính:**
 - Tên khách hàng
 - Mã khách hàng
@@ -14,7 +14,7 @@
 - Cập nhật thông tin
 - Xem lịch sử nạp tiên
   
-#**2. Mã máy**
+# **2. Mã máy**
  - **Thuộc tính:**
 - Tên máy
 - Mã máy
@@ -25,7 +25,7 @@
 - **Hành vi (Method):**
 -	Cập nhật giờ chơi
   
-#**3. Thanh toán**
+# **3. Thanh toán**
 - **Thuộc tính:**
 -	Mã giao dịch
 -	Tên khách hàng
