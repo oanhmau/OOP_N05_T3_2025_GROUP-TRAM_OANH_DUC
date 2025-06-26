@@ -6,16 +6,16 @@
 
 ## Thuộc tính
 #**1. Khách hàng**
-**-Thuộc tính:**
+ - **Thuộc tính:**
 - Tên khách hàng
 - Mã khách hàng
 - Số điện thoại
-**-Hành vi (Method):**
+ - **Hành vi (Method):**
 - Cập nhật thông tin
 - Xem lịch sử nạp tiên
   
 #**2. Mã máy**
- **- Thuộc tính:**
+ - **Thuộc tính:**
 - Tên máy
 - Mã máy
 - Giá chơi
