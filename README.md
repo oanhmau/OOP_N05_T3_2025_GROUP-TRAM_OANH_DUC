@@ -1,14 +1,38 @@
 # OOP_N05_T3_2025_GROUP-TRAM_OANH_DUC
 Ứng dụng quản lý quán net
-- sản phẩm
+- mã máy
 - khách hàng
-- giao dịch
+- thanh toán
 
 # Thuộc tính
-- Đối tượng
-  + khách hàng
-  + sản phẩm
-  + giao dịch
+1. Khách hàng (KháchHàng)
+•	Thuộc tính:
+o	Tên khách hàng
+o	Mã khách hàng
+o	Số điện thoại
+•	Hành vi (Method):
+o	Cập nhật thông tin
+o	Xem lịch sử nạp tiên
+2. Mã máy 
+•	Thuộc tính:
+o	Tên máy
+o	Mã máy
+o	Giá chơi
+o	Số giờ chơi
+o	Số giờ còn lại
+•	Hành vi (Method):
+o	Cập nhật giờ chơi
+3. Thanh toán
+•	Thuộc tính:
+o	Mã giao dịch
+o	Tên khách hàng
+o	Số giờ chơi
+o	Thành tiền
+•	Hành vi (Method):
+o	Tính tổng tiền giao dịch
+o	Xuất hóa đơn
+
+
 
 
 
