@@ -1,11 +1,11 @@
-# OOP_N05_T3_2025_GROUP-TRAM_OANH_DUC
+### OOP_N05_T3_2025_GROUP-TRAM_OANH_DUC
 Ứng dụng quản lý quán net
 - mã máy
 - khách hàng
 - thanh toán
 
-# Thuộc tính
-**1. Khách hàng**
+## Thuộc tính
+#**1. Khách hàng**
 **-Thuộc tính:**
 - Tên khách hàng
 - Mã khách hàng
@@ -13,7 +13,7 @@
 **-Hành vi (Method):**
 - Cập nhật thông tin
 - Xem lịch sử nạp tiên
-**2. Mã máy**
+#**2. Mã máy**
  **- Thuộc tính:**
 - Tên máy
 - Mã máy
@@ -22,7 +22,7 @@
 -	Số giờ còn lại
 **-	Hành vi (Method):**
 -	Cập nhật giờ chơi
-**3. Thanh toán**
+#**3. Thanh toán**
 **-	Thuộc tính:**
 -	Mã giao dịch
 -	Tên khách hàng
