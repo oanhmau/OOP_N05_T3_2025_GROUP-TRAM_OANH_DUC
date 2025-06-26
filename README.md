@@ -7,9 +7,9 @@
 # Thuộc tính
 1. Khách hàng (KháchHàng)
 •	Thuộc tính:
-o	Tên khách hàng
-o	Mã khách hàng
-o	Số điện thoại
+	• Tên khách hàng
+  •Mã khách hàng
+  •Số điện thoại
 •	Hành vi (Method):
 o	Cập nhật thông tin
 o	Xem lịch sử nạp tiên
