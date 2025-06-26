@@ -5,32 +5,32 @@
 - thanh toán
 
 # Thuộc tính
-1. Khách hàng (KháchHàng)
-•	Thuộc tính:
+**1. Khách hàng**
+**-Thuộc tính:**
 - Tên khách hàng
 - Mã khách hàng
 - Số điện thoại
-•	Hành vi (Method):
+**-Hành vi (Method):**
 - Cập nhật thông tin
 - Xem lịch sử nạp tiên
-2. Mã máy 
-•	Thuộc tính:
-o	Tên máy
-o	Mã máy
-o	Giá chơi
-o	Số giờ chơi
-o	Số giờ còn lại
-•	Hành vi (Method):
-o	Cập nhật giờ chơi
-3. Thanh toán
-•	Thuộc tính:
-o	Mã giao dịch
-o	Tên khách hàng
-o	Số giờ chơi
-o	Thành tiền
-•	Hành vi (Method):
-o	Tính tổng tiền giao dịch
-o	Xuất hóa đơn
+**2. Mã máy**
+ **- Thuộc tính:**
+- Tên máy
+- Mã máy
+- Giá chơi
+- Số giờ chơi
+-	Số giờ còn lại
+**-	Hành vi (Method):**
+-	Cập nhật giờ chơi
+**3. Thanh toán**
+**-	Thuộc tính:**
+-	Mã giao dịch
+-	Tên khách hàng
+-	Số giờ chơi
+-	Thành tiền
+**- Hành vi (Method):**
+-	Tính tổng tiền giao dịch
+-	Xuất hóa đơn
 
 
 
